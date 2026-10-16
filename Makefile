@@ -1,8 +1,8 @@
 # Nome do arquivo executável final (pode alterar se quiser)
-TARGET = input_mouse
+TARGET = gesture
 
 # Nome do seu arquivo fonte principal em C
-SRC = input_mouse.c
+SRC = gesture.c
 
 # Compilador utilizado
 CC = gcc

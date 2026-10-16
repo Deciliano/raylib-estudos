@@ -18,6 +18,8 @@ completo.
 - `input_mouse.c`: movimentação de um retângulo com a roda do mouse.
 - `frame.c`: comparação de movimento com e sem uso de `GetFrameTime()` e
   alteração do limite de FPS.
+- `gesture.c`: detecção e exibição de gestos de toque, como toque, arrasto,
+  deslize e pinça.
 
 Cada arquivo de exemplo tem sua própria função `main` e pode ser compilado e
 executado separadamente, com um compilador C e a raylib instalados.
